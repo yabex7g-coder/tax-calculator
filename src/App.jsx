@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import { Calculator, Plus, Trash2, ChevronRight, ChevronLeft, Info, RefreshCw, Wallet, DollarSign, PieChart } from 'lucide-react';
+import React, { useState, useMemo } from 'react';
+import { Calculator, Plus, ChevronRight, ChevronLeft, Info, RefreshCw, Wallet, PieChart } from 'lucide-react';
 
 // --- 2024년 귀속 기본 세율표 (2025년 신고용) ---
 const TAX_BRACKETS = [
